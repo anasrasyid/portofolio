@@ -1,0 +1,18 @@
+{
+  "name": "Anas Rasyid",
+  "headline": "Hi — I am <strong>Anas Rasyid</strong>, \n I'm a game programmer focused on Unity.",
+  "subhead": "I build gameplay features, performance-focused systems, and editor tooling to ship polished games.",
+  "resume": "assets/Resume_Anas Rasyid.pdf",
+  "skills": ["Unity", "C#", "Gameplay Systems", "Editor Tools", "Optimization", "GameArchitecture", "Game Porting"],
+  "photo": "assets/image/photo.jpg",
+  "bio": "A <strong>proactive and analytical individual</strong> with a strong passion for problem-solving and eager to learn. I approach challenges from multiple perspectives to identify the most effective and efficient solutions. Confident in communicating ideas and providing constructive input within team environments. Specifically enthusiastic about game development, I stay up to date with emerging technologies and enjoy applying industry innovations in practical, results-driven ways—both professionally and with the same curiosity I bring to gameplay",
+  "email": "anasrasyid333@gmail.com",
+  "linkedin": "https://linkedin.com/in/anasrasyid",
+  "github": "https://github.com/anasrasyid",
+  "website": "",
+  "projectCard": {
+    "width": "300px",
+    "height": "420px",
+    "descriptionToStudioGap": "24px"
+  }
+}

@@ -1,0 +1,51 @@
+[
+  {
+    "title": "1998: The Toll Keeper Story",
+    "role": "Gameplay Programmer",
+    "description": "As Lead Programmer on 1998: The Toll Keeper Story, I led a small team consisting of a freelance developer and an intern programmer. I architected modular UI and core gameplay systems designed to be easily accessible for other disciplines on the team. Beyond core programming, I handled the Android porting process, managed build pipelines and performance optimization, and configured backend store platform features including achievements.",
+    "details": "A narrative simulation game where you play as a mother-to-be working as a toll keeper in the fictional country of Janapa, a nation on the brink of chaos. Navigate daily challenges and make difficult moral choices to survive—all for the sake of your unborn child.",
+    "studio": "GameChanger Studio",
+    "image": "assets/projects/1998-the-toll-keeper-story.png",
+    "stores": [
+      { "platform": "Steam",            "url": "https://store.steampowered.com/app/3273530/1998_The_Toll_Keeper_Story/", "icon": "assets/icons/steam.png" },
+      { "platform": "Playstore",        "url": "https://play.google.com/store/apps/details?id=com.GameChangerStudio.ttks", "icon": "assets/icons/playstore.png" },
+      { "platform": "Epic Games",       "url": "https://store.epicgames.com/p/1998-the-toll-keeper-story-a8fd23?lang=id", "icon": "assets/icons/epic.png" },
+      { "platform": "Playstation",      "url": "https://store.playstation.com/en-id/concept/10018178", "icon": "assets/icons/playstation.png" }
+    ]
+  },
+  {
+    "title": "My Lovely Empress",
+    "role": "Game Programmer",
+    "description": "Engineered core gameplay mechanics and built a modular UI powered by Event-Driven Architecture. To ensure long-term scalability, I developed a ScriptableObject-based system that allows real-time data inspection and editing—both in and out of Play Mode. Additionally, I implemented a custom joystick controller to deliver smooth player movement for gamepad users.",
+    "details": "My Lovely Empress is an empire management sim inspired by Asian mythology. As the Emperor of the Crimson Empire, you will build relations with neighboring rulers, balance internal factions, and ensure the prosperity of your people, all before you reap their souls to resurrect your beloved empress.",
+    "studio": "GameChanger Studio",
+    "image": "assets/projects/my-lovely-empress.jpeg",
+    "stores": [
+      { "platform": "Steam",          "url": "https://store.steampowered.com/app/2052990/My_Lovely_Empress/", "icon": "assets/icons/steam.png" },
+      { "platform": "Nintendo Switch","url": "https://www.nintendo.com/us/store/products/my-lovely-empress-switch/", "icon": "assets/icons/nintendo.png" }
+    ]
+  },
+  {
+    "title": "My Lovely Daughter: ReBorn",
+    "role": "Game Programmer",
+    "description": "On My Lovely Daughter: ReBorn, I served as a Programmer responsible for platform releases on Steam and Nintendo Switch. I established an efficient asset setup pipeline that empowered artists to directly integrate new assets into the game. In addition to platform integration, I managed build stability and quality assurance, ensuring zero critical bugs made it to release.",
+    "details": "My Lovely Daughter is an alchemist simulator that explores the depth of a father’s grief and how far he will go to resurrect his daughter. Contains dark and disturbing subject matters, might not be suitable for children or those who are easily disturbed.",
+    "studio": "GameChanger Studio",
+    "image": "assets/projects/my-lovely-daughter.jpeg",
+    "stores": [
+      { "platform": "Steam", "url": "https://store.steampowered.com/app/580170/My_Lovely_Daughter/", "icon": "assets/icons/steam.png" },
+      { "platform": "Nintendo Switch","url": "https://www.nintendo.com/us/store/products/my-lovely-daughter-reborn-switch/", "icon": "assets/icons/nintendo.png" }
+    ]
+  },
+  {
+    "title": "Light of Eden",
+    "role": "Intern Programmer",
+    "description": "I am contributed to the development of gameplay mechanics, game content (i.e implementing spell logic content), and game UI implementation.",
+    "details": "Light of Eden is a top-down action strategy game inspired by titles like Archero, where players battle through waves of enemies using a variety of spells and modifiers. The game emphasizes tactical positioning, spell synergy, and strategic upgrades to overcome increasingly difficult challenges. \n\n <strong>Note: Since Joyseed Gametribe has since closed, the game is no longer available on the Play Store.</strong>",
+    "studio": "Joyseed Gametribe",
+    "image": "assets/projects/light-of-eden.jpg",
+    "stores": [
+      { "platform": "Playstore", "url": "https://light-of-eden.en.softonic.com/android", "icon": "assets/icons/playstore.png" }
+    ]
+  }
+]
